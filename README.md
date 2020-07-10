@@ -1,1 +1,1 @@
-Mit diesem Programm kann man Kunden erfassen und memos 
+Mit diesem Programm kann man Kunden erfassen und memos zu diesen hinzufügen. Um das Programm zu starten muss man "CustomerMemosApplication" mit Spring starten und im Browser "localhost:8080/home" in die URL eingeben.
